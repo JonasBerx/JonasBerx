@@ -2,10 +2,9 @@
 <p align="center">
   <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=JonasBerx&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Status"/>
+    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=JonasBerx" alt=Weekly Stats>
+    <br>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true" alt="Most Used Languages">
-  </p>
-  <p>
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=JonasBerx" alt=Weekly Stats>
   </p>
 </p>
 
