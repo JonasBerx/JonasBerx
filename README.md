@@ -8,7 +8,7 @@
     <br>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages">
 </p>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/JonasBerx">
     <img src="https://komarev.com/ghpvc/?username=JonasBerx">
 </a>
 <!--
