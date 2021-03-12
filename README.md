@@ -8,6 +8,9 @@
     <br>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages">
 </p>
+<p>
+![](https://komarev.com/ghpvc/?username=JonasBerx&color=ff69b4&label=Unique+Visitors:)
+</p>
 
 <!--
 **JonasBerx/JonasBerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
