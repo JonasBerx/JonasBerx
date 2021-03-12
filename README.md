@@ -8,8 +8,10 @@
     <br>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true&layout=compact&theme=dracula" alt="Most Used Languages">
 </p>
-![](https://komarev.com/ghpvc/?username=JonasBerx&color=ff69b4&label=Unique+Visitors:)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 <!--
 **JonasBerx/JonasBerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
