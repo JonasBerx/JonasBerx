@@ -5,6 +5,7 @@
 <a href="https://github.com/JonasBerx">
     <img src="https://komarev.com/ghpvc/?username=JonasBerx">
 </a>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/232566719183323136)](https://discord.com/users/232566719183323136)
 
 <p align="center">
