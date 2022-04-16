@@ -1,13 +1,17 @@
 <div align="center">
-  💻 About me 💻
+  💻 Who am I, what do I do? 💻
 </div>
 <hr />
 <div align="center">
-  <a href="https://github.com/JonasBerx">
-      <img src="https://komarev.com/ghpvc/?username=JonasBerx">
-  </a>
+  <div>
+    <p>Look mom, I'm famous</p>
+    <a href="https://github.com/JonasBerx">
+        <img src="https://komarev.com/ghpvc/?username=JonasBerx">
+    </a>
+  </div>
 </div>
 <div align="center">
+<p>If you really want to stalk my Discord status:</p>
 <p align="center">
   
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/232566719183323136)](https://discord.com/users/232566719183323136)
