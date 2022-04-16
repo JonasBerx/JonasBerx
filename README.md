@@ -2,7 +2,7 @@
   💻 Who am I, what do I do? 💻
 </div>
 <hr />
-<div align="center">
+<div>
   <div>
     <p>Look mom, I'm famous</p>
     <a href="https://github.com/JonasBerx">
@@ -10,7 +10,8 @@
     </a>
   </div>
 </div>
-<div align="center">
+<hr />
+<div>
 <p>If you really want to stalk my Discord status:</p>
 <p align="center">
   
@@ -18,8 +19,9 @@
 
 </p>
 </div>
-
-<p align="center">
+<hr />
+<p>I also write code in some languages</p>
+<p>
     <img src = "https://github-readme-stats.vercel.app/api?username=JonasBerx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Status"/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true&layout=compact&theme=dracula&langs_count=8&hide=javascript,html" alt="My languages">
 </p>
