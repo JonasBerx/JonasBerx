@@ -1,6 +1,16 @@
 <h1 align="center">
   💻 Who am I, what do I do? 💻
 </h1>
+<div>
+  <p>Hello, my name is <b>Jonas</b> and I do a bunch of stuff. Some of my top activities are:</p>
+  <ul>
+    <li>Writing scripts for menial tasks</li>
+    <li>Never finishing side projects</li>
+    <li>Finding cool widgets for this README file</li>
+    <li>Playing modded Factorio</li>
+  </ul>
+</div>
+
 <hr />
 <div>
   <div>
