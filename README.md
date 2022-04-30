@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   💻 Who am I, what do I do? 💻
-</div>
+</h1>
 <hr />
 <div>
   <div>
