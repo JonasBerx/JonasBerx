@@ -30,7 +30,7 @@
 </p>
 </div>
 <hr />
-<p>I also write code in some languages, and yes I omitted javascript</p>
+<p>I also write code in some languages, and yes I omitted JavaScript</p>
 <div>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true&layout=compact&theme=dracula&langs_count=8&hide=javascript,html" alt="My languages">
 </div>
