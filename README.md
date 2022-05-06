@@ -1,9 +1,17 @@
 <h1 align="center">
   💻 Who am I, what do I do? 💻
 </h1>
-<div>
-  <p>Hello, my name is <b>Jonas</b> and I do a bunch of stuff. Some of my top activities are:</p>
-  <ul>
+<pre>
+██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
+███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
+██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+</pre>
+<div align="center">
+  <p>My name is <b>Jonas</b> and I do a bunch of stuff. Some of my top activities are:</p>
+  <ul style="list-style-type: none">
     <li>Writing scripts for menial tasks</li>
     <li>Never finishing side projects</li>
     <li>Finding cool widgets for this README file</li>
@@ -12,35 +20,38 @@
 </div>
 
 <hr />
-<div>
+<div align="center">
   <div>
-    <p>Look mom, I'm famous</p>
+    <p>Look mom, I'm famous!</p>
     <a href="https://github.com/JonasBerx">
         <img src="https://komarev.com/ghpvc/?username=JonasBerx">
     </a>
   </div>
 </div>
 <hr />
-<div>
-<p>If you really want to stalk my Discord status:</p>
+<div align="center">
+<p>If you really want to stalk my <b>Discord</b> status:</p>
 <p align="center">
-  
+
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/232566719183323136)](https://discord.com/users/232566719183323136)
 
 </p>
 </div>
 <hr />
-<p>I also write code in some languages, and yes I omitted JavaScript</p>
+<div align="center">
+<p>I also write code in some languages, and yes I omitted <b>JavaScript</b></p>
 <div>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBerx&show_icons=true&layout=compact&theme=dracula&langs_count=8&hide=javascript,html" alt="My languages">
 </div>
+</div>
 <hr />
+<div align="center">
 <p>And I guess you like to see my github stats too?</p>
 <div>
     <img src = "https://github-readme-stats.vercel.app/api?username=JonasBerx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Status"/>
-    
-</div>
 
+</div>
+</div>
 <!--
 **JonasBerx/JonasBerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
