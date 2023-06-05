@@ -48,7 +48,7 @@
 <div align="center">
 <p>And I guess you like to see my github stats too?</p>
 <div>
-    <img src = "https://github-readme-stats.vercel.app/api?username=JonasBerx&custom_title="Juicy Stats"&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Status"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=JonasBerx&custom_title=Juicy Stats&rank_icon=github&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Status"/>
 
 </div>
 </div>
